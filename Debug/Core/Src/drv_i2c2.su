@@ -1,0 +1,3 @@
+../Core/Src/drv_i2c2.c:8:6:BareMetal_I2C2_Init	40	static
+../Core/Src/drv_i2c2.c:44:6:BareMetal_I2C2_WriteReg	32	static
+../Core/Src/drv_i2c2.c:59:9:BareMetal_I2C2_ReadReg	32	static

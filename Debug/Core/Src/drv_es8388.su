@@ -1,0 +1,12 @@
+../Core/Src/drv_es8388.c:21:16:reg_read	40	static
+../Core/Src/drv_es8388.c:35:13:reg_write	32	static
+../Core/Src/drv_es8388.c:42:12:es8388_set_adc_dac_volume	32	static
+../Core/Src/drv_es8388.c:67:6:es8388_set_voice_mute	24	static
+../Core/Src/drv_es8388.c:76:19:es8388_init	24	static
+../Core/Src/drv_es8388.c:130:19:es8388_start	24	static
+../Core/Src/drv_es8388.c:166:19:es8388_stop	16	static
+../Core/Src/drv_es8388.c:193:19:es8388_fmt_set	24	static
+../Core/Src/drv_es8388.c:213:6:es8388_volume_set	24	static
+../Core/Src/drv_es8388.c:226:9:es8388_volume_get	16	static
+../Core/Src/drv_es8388.c:245:6:es8388_pa_power	16	static
+../Core/Src/drv_es8388.c:260:6:estest	16	static
